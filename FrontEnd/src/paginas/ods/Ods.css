@@ -1,0 +1,34 @@
+.caixa{
+    background-color:  #ffffff ;
+}
+
+.titulo{
+    color: #004aad!important;
+}
+
+.botao{
+    border-color: #ffff !important;
+    background-color: #a30363;
+    color: #ffff !important;
+}
+
+.descricao{
+    color: #004aad!important;
+    font-size: 20px;
+}
+
+.imgOds{
+    background-image: url('../../../public/Imagens/imgODS.jpg');
+    background-repeat: no-repeat; 
+    width: 30vh;
+    min-height: 100vh; 
+    background-size: contain; 
+    background-position: center;
+    border-radius: 240px 250px 240px 250px !important;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}

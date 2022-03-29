@@ -1,0 +1,18 @@
+.topo{
+    margin-top: 20px;
+    align-content: center;
+}
+
+.botaofinalizarpost{
+    border-color: #ffff !important;
+    background-color: #004aad !important;
+    color: #ffff !important;
+    border-radius: 15px 50px 30px !important;
+   align-items: center;
+   text-decoration: none !important;
+}
+
+.textonovapost{
+    color:#004aad !important;
+    font-weight: bold !important;
+}

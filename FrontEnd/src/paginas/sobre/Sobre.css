@@ -1,0 +1,60 @@
+.titulosobre{
+    color: #004aad !important;
+    font-weight: bold !important;
+}
+
+.nomessobre{
+    color: #004aad !important;
+    font-weight: bold !important;
+    font-size: 23px !important;
+    font-weight: 700 !important;
+    text-align: center;
+}
+
+.sobre{
+    background-image: url('../../../public/Imagens/imgSobre.png');
+    background-repeat: no-repeat; 
+    width: 50vh;
+    min-height: 100vh; 
+    background-size: contain; 
+    background-position: center;
+}
+
+
+.icons{
+    color: #004aad;
+    width: 40px !important;
+    height: 40px !important;
+    margin: 20px 0;
+}
+
+.foto{
+    border-radius: 100%;
+    width: 100%;
+}
+
+.margemSobre{
+    margin: 50px 0;
+}
+
+.subtitulo{
+    font-size: 17px !important;
+    color: #004aad;
+    font-weight: 500 !important;
+    text-align: center;
+    font-weight: bold !important;
+    }
+
+    .textoSobre{
+        font-size: 15px !important;
+        font-weight: 600!important;
+        text-align: center !important;
+        }
+
+        #show{
+            display: none;
+          }
+          
+        #mouse:hover #show{
+            display:block;
+            }

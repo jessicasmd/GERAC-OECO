@@ -1,0 +1,41 @@
+.caixa1{
+    background-color:  #ffff ;  
+}
+
+.titulo1{
+    font-family:Fonte !important;
+    color: #004aad!important;
+    font-weight: bold !important;
+    justify-items: center !important;
+}
+
+.botaoInicio{
+    border-color: #ffff !important;
+    background-color: #004aad !important;
+    color: #ffff !important;
+    border-radius: 15px 50px 30px !important;
+    text-decoration: none !important;
+}
+
+.descricao1{
+    color: #004aad!important;
+    font-size: 10px ;
+}
+
+.imgInicio{
+        background-image: url('../../../public/Imagens/imgInicio.gif');
+        background-repeat: no-repeat; 
+        width: 100vh;
+        min-height: 65vh; 
+        background-size: cover; 
+        background-position: center;
+        justify-items: flex-start;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+@font-face {
+    font-family:'Fonte' ;
+    src: url(../../../public/regurgi.ttf);
+}

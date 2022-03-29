@@ -1,0 +1,22 @@
+.Finalizar{
+    border-color: #ffff !important;
+    background-color: #004aad !important;
+    color: #ffff !important;
+    border-radius: 15px 50px 30px !important;
+   align-items: center;
+   text-decoration: none !important;
+}
+
+.Deletar{
+    border-color: #ffff !important;
+    background-color: #FF0000 !important;
+    color: #ffff !important;
+    border-radius: 15px 50px 30px !important;
+   align-items: center;
+   text-decoration: none !important;
+}
+
+.textdeletpost{
+    color:#004aad !important;
+    font-weight: bold !important;
+}

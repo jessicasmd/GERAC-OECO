@@ -1,0 +1,19 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.nave{
+    background: linear-gradient( 36deg,#004aad 8%, #2684FF , #73B0FF)
+}
+
+.geracao{
+    cursor: pointer;
+}
+.name{
+    font-family: Acme, sans-serif !important;
+}

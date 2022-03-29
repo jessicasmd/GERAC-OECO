@@ -1,0 +1,28 @@
+.footer{
+    background: linear-gradient( 36deg,#73B0FF 8%, #2684FF , #004aad);
+    height: 100%; 
+}
+
+.icon{
+    font-size: 20px !important;
+    color: #fff; 
+    margin: 0 1em;
+    
+}
+.icon2{
+    font-size: 20px !important;
+    color: #fff; 
+    margin: 0 4em;
+    
+}
+
+.textofooter{
+    color: #fff;
+    text-decoration:none;
+    margin-top: 60px;
+}
+
+.imgfooter{
+    padding-bottom: 20px !important;
+    padding-left: 15px ;
+}
